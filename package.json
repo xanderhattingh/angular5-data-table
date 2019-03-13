@@ -1,0 +1,20 @@
+{
+  "name": "angular5-data-table",
+  "description": "This library contains an Angualar5-compatible Datatable component.",
+  "version": "1.0.3",
+  "private": false,
+  "license": "MIT",
+  "repository": "https://github.com/brunano21/angular-4-data-table",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0",
+    "@angular/common": "^5.0.0"
+  },
+  "main": "bundles/angular5-data-table.umd.js",
+  "module": "esm5/angular5-data-table.js",
+  "es2015": "esm2015/angular5-data-table.js",
+  "typings": "angular5-data-table.d.ts",
+  "metadata": "angular5-data-table.metadata.json",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  }
+}
